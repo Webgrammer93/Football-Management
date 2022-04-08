@@ -16,7 +16,7 @@ export default class AddStadium extends LightningElement {
     onSuccess(event) {
         const evt = new ShowToastEvent({
             title: 'Stadium Registry Created',
-            message: 'Record ID: ' + event.detail,
+            message: 'Stadium Registry Record ID - ' + event.detail.id,
             variant: 'success',
         });
         this.dispatchEvent(evt);

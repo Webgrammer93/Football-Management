@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#54ADFD</headerColor>
+        <logo>pngtransparentblueandgreenballteaml</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>Football World</label>
+    <navType>Standard</navType>
+    <tabs>Football_Club__c</tabs>
+    <tabs>Stadium__c</tabs>
+    <tabs>Human__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Football_World_UtilityBar</utilityBar>
+</CustomApplication>

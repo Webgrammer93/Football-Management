@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Role__c</fullName>
+    <externalId>false</externalId>
+    <label>Role</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Academy Coach</fullName>
+                <default>false</default>
+                <label>Academy Coach</label>
+            </value>
+            <value>
+                <fullName>Board Member</fullName>
+                <default>false</default>
+                <label>Board Member</label>
+            </value>
+            <value>
+                <fullName>Coach Assitant</fullName>
+                <default>false</default>
+                <label>Coach Assitant</label>
+            </value>
+            <value>
+                <fullName>Manager</fullName>
+                <default>false</default>
+                <label>Manager</label>
+            </value>
+            <value>
+                <fullName>Marketing Manager</fullName>
+                <default>false</default>
+                <label>Marketing Manager</label>
+            </value>
+            <value>
+                <fullName>Medic</fullName>
+                <default>false</default>
+                <label>Medic</label>
+            </value>
+            <value>
+                <fullName>Physical Therapist</fullName>
+                <default>false</default>
+                <label>Physical Therapist</label>
+            </value>
+            <value>
+                <fullName>Player</fullName>
+                <default>false</default>
+                <label>Player</label>
+            </value>
+            <value>
+                <fullName>President</fullName>
+                <default>false</default>
+                <label>President</label>
+            </value>
+            <value>
+                <fullName>Public Relations Manager</fullName>
+                <default>false</default>
+                <label>Public Relations Manager</label>
+            </value>
+            <value>
+                <fullName>Scout</fullName>
+                <default>false</default>
+                <label>Scout</label>
+            </value>
+            <value>
+                <fullName>Scouting Manager</fullName>
+                <default>false</default>
+                <label>Scouting Manager</label>
+            </value>
+            <value>
+                <fullName>Video Analyzer</fullName>
+                <default>false</default>
+                <label>Video Analyzer</label>
+            </value>
+            <value>
+                <fullName>Owner</fullName>
+                <default>false</default>
+                <label>Owner</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
