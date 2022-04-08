@@ -1,0 +1,12 @@
+<template>
+    <div class="stadium-header">
+        <h1>Register a <b class="darkgreen-font">Stadium</b></h1>
+    </div>
+    <lightning-record-form
+        object-api-name={object}
+        fields={fields}
+        onsuccess={onSuccess}
+        onerror={onError}
+        density="comfy">
+    </lightning-record-form>
+</template>
