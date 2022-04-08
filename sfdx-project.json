@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "AwesomeProject",
+  "name": "FootballManagement",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "52.0"
